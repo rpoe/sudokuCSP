@@ -4,7 +4,7 @@ This project is a port of the sudoku solver written in Java bei Peter Norvig to 
 The Java source from [Sudoku.java](https://github.com/norvig/pytudes/blob/main/ipynb/Sudoku.java)
 has been copied to this repository. This will enable easy repetition of the results.
 
-Test input files have been copied too.
+Test input files have been copied too. Links see below.
 
 The copied files are with MIT License as this project.
 
